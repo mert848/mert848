@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="SENIN_BANNER_RESMINIZIN_LINKI" alt="mert 14 the coder" width="100%">
+  <img src="https://github.com/mert848/mert848/blob/main/Kedy.png" alt="mert 14 the coder" width="100%">
 </p>
 
 ### ⚡ about
