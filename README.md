@@ -6,7 +6,7 @@
 14-year-old software engineer, systems builder & ml enthusiast. 🚀💻  
 building high-performance systems, visual ai tooling, custom Discord bots, and developer infrastructure.
 
-🌐 [GitHub Profile](https://github.com/mert848) • ✉️ [Contact](mailto:mertkucukel88@gmail.com)
+🌐 [Profile](https://guns.lol/mert848) • ✉️ [Contact](mailto:mert848@proton.me)
 
 ---
 
