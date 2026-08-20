@@ -4,7 +4,7 @@
 
 ### ⚡ about
 15-year-old AI engineer, systems builder, NPP cyber security researcher & tech enthusiast. 🚀💻  
-Building high-performance AI servers, automated AI systems, visual AI tooling, custom Discord bots, and secure developer infrastructure.
+Building high-performance AI servers, automated AI systems, visual AI tooling, custom Discord bots, and secure developer infrastructure and more.
 
 🌐 [Profile](https://guns.lol/mert848) • ✉️ [Contact](mailto:mert848@proton.me)
 
