@@ -47,11 +47,11 @@ Next-generation artificial intelligence platforms integrated with critical infra
 - **Visual AI Pipeline**: Drag-and-drop neural network creation, execution, and visual model training.
 - **NPP Cyber Security Monitoring**: Specialized real-time anomaly detection and security protocols designed for critical industrial systems and Nuclear Power Plant simulations.
 - **Cross-Model GPU Optimization**: High-performance scheduling algorithms designed to maximize local hardware compute efficiency.
-- 
+
 ---
 
 ### 📊 activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mert848&theme=dark&hide_border=true" alt="GitHub Streak" height="150" />
+  <img src="https://streak-stats.demolab.com/?user=mert848&theme=dark&hide_border=true" alt="GitHub Streak" height="150" />
 </p>
