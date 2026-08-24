@@ -53,5 +53,5 @@ Next-generation artificial intelligence platforms integrated with critical infra
 ### 📊 activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mert848&theme=dark&hide_border=true" alt="GitHub Streak" height="150" />
+  <img src="https://github-readme-streak-stats-five.vercel.app/?user=mert848&theme=dark&hide_border=true" alt="GitHub Streak" height="150" />
 </p>
