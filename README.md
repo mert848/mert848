@@ -13,14 +13,16 @@ Building high-performance AI servers, automated AI systems, visual AI tooling, c
 ### 🛠️ core skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,js,ts,java,html,css,lua,rust,go,php,ruby,swift,kotlin,dart,zig,r,scala,perl,haskell,bash,pytorch,fastapi,docker,git,sqlite,arduino,linux,vite,electron&theme=dark" alt="core skills" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,js,ts,java,html,css,lua,rust,go,php,ruby,swift,kotlin,dart,zig,r,scala,perl,haskell,bash,pytorch,tensorflow,fastapi,django,flask,nodejs,express,react,nextjs,vue,angular,svelte,tailwind,docker,kubernetes,aws,gcp,azure,git,github,gitlab,sqlite,postgres,mysql,mongodb,redis,firebase,arduino,raspberrypi,linux,ubuntu,apple,vite,electron,figma&theme=dark" alt="core skills" />
 </p>
 
-- **languages**: C • C++ • C# • Objective-C • Python • JavaScript • TypeScript • Java • HTML • CSS • Lua • Rust • Go • PHP • Ruby • Swift • Kotlin • Dart • Zig • R • Scala • Perl • Haskell • Bash • Assembly • SQL
-- **ml & systems**: PyTorch • ONNX • CUDA • pybind11 • MLX • Continuous Batching • Autograd
-- **backend & bot**: Node.js • discord.js • FastAPI • Express • REST APIs • RPC
-- **databases**: SQLite • PostgreSQL • Redis • MongoDB
-- **tools & hardware**: Arduino / ESP32 • Git • GitHub • Docker • Linux • Apple Silicon / Metal • Vite • Electron • Termux • PM2
+- **languages**: C • C++ • C# • Objective-C • Python • JavaScript • TypeScript • Java • HTML • CSS • Lua • Rust • Go • PHP • Ruby • Swift • Kotlin • Dart • Zig • R • Scala • Perl • Haskell • Bash • Assembly • SQL • MATLAB
+- **ml & ai systems**: PyTorch • TensorFlow • Keras • Scikit-learn • ONNX • CUDA • TensorRT • OpenCV • pybind11 • MLX • LangChain • Hugging Face • Continuous Batching • Autograd
+- **frontend & ui**: React • Next.js • Vue.js • Angular • Svelte • Tailwind CSS • Bootstrap • Figma
+- **backend & bot**: Node.js • discord.js • FastAPI • Django • Flask • Express • Spring Boot • REST APIs • GraphQL • gRPC • RabbitMQ
+- **databases**: SQLite • PostgreSQL • MySQL • MongoDB • Redis • Firebase • Cassandra • Elasticsearch • Supabase
+- **devops & cloud**: Docker • Kubernetes • AWS • GCP • Azure • Nginx • Apache • GitHub Actions • Jenkins
+- **tools & hardware**: Arduino • ESP32 • Raspberry Pi • Git • GitHub • GitLab • Linux • Ubuntu • Apple Silicon / Metal • Vite • Webpack • Electron • Termux • PM2
 
 ---
 
