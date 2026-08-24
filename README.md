@@ -13,10 +13,10 @@ Building high-performance AI servers, automated AI systems, visual AI tooling, c
 ### 🛠️ core skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,cpp,cs,c,js,ts,java,html,css,lua,rust,go,php,ruby,swift,kotlin,dart,zig,pytorch,fastapi,docker,git,sqlite,arduino,linux,vite,electron&theme=dark" alt="core skills" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,js,ts,java,html,css,lua,rust,go,php,ruby,swift,kotlin,dart,zig,r,scala,perl,haskell,bash,pytorch,fastapi,docker,git,sqlite,arduino,linux,vite,electron&theme=dark" alt="core skills" />
 </p>
 
-- **languages**: Python • C++ • C# • C • JavaScript • TypeScript • Java • HTML • CSS • Lua • Rust • Go • PHP • Ruby • Swift • Kotlin • Dart • Zig • SQL
+- **languages**: C • C++ • C# • Objective-C • Python • JavaScript • TypeScript • Java • HTML • CSS • Lua • Rust • Go • PHP • Ruby • Swift • Kotlin • Dart • Zig • R • Scala • Perl • Haskell • Bash • Assembly • SQL
 - **ml & systems**: PyTorch • ONNX • CUDA • pybind11 • MLX • Continuous Batching • Autograd
 - **backend & bot**: Node.js • discord.js • FastAPI • Express • REST APIs • RPC
 - **databases**: SQLite • PostgreSQL • Redis • MongoDB
