@@ -13,7 +13,7 @@ Building high-performance AI servers, automated AI systems, visual AI tooling, c
 ### 🛠️ core skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,js,ts,java,html,css,lua,rust,go,php,ruby,swift,kotlin,dart,zig,r,scala,perl,haskell,bash,pytorch,tensorflow,fastapi,django,flask,nodejs,express,react,nextjs,vue,angular,svelte,tailwind,docker,kubernetes,aws,gcp,azure,git,github,gitlab,sqlite,postgres,mysql,mongodb,redis,firebase,arduino,raspberrypi,linux,ubuntu,apple,vite,electron,figma&theme=dark" alt="core skills" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,js,ts,java,html,css,lua,rust,go,php,ruby,swift,kotlin,dart,zig,r,scala,perl,haskell,bash,pytorch,tensorflow,fastapi,django,flask,nodejs,express,react,nextjs,vue,angular,svelte,tailwind,docker,kubernetes,aws,gcp,azure,git,github,gitlab,sqlite,postgres,mysql,mongodb,redis,firebase,arduino,raspberrypi,linux,ubuntu,vite,electron,figma&theme=dark" alt="core skills" />
 </p>
 
 - **languages**: C • C++ • C# • Objective-C • Python • JavaScript • TypeScript • Java • HTML • CSS • Lua • Rust • Go • PHP • Ruby • Swift • Kotlin • Dart • Zig • R • Scala • Perl • Haskell • Bash • Assembly • SQL • MATLAB
@@ -22,7 +22,7 @@ Building high-performance AI servers, automated AI systems, visual AI tooling, c
 - **backend & bot**: Node.js • discord.js • FastAPI • Django • Flask • Express • Spring Boot • REST APIs • GraphQL • gRPC • RabbitMQ
 - **databases**: SQLite • PostgreSQL • MySQL • MongoDB • Redis • Firebase • Cassandra • Elasticsearch • Supabase
 - **devops & cloud**: Docker • Kubernetes • AWS • GCP • Azure • Nginx • Apache • GitHub Actions • Jenkins
-- **tools & hardware**: Arduino • ESP32 • Raspberry Pi • Git • GitHub • GitLab • Linux • Ubuntu • Apple Silicon / Metal • Vite • Webpack • Electron • Termux • PM2
+- **tools & hardware**: Arduino • ESP32 • Raspberry Pi • Git • GitHub • GitLab • Linux • Ubuntu • Vite • Webpack • Electron • Termux • PM2
 
 ---
 
@@ -55,5 +55,5 @@ Next-generation artificial intelligence platforms integrated with critical infra
 ### 📊 activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-five.vercel.app/?user=mert848&theme=dark&hide_border=true" alt="GitHub Streak" height="150" />
+  <img src="https://streak-stats-five.vercel.app/?user=mert848&theme=dark&hide_border=true" alt="GitHub Streak" height="150" />
 </p>
