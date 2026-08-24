@@ -28,11 +28,11 @@ Building high-performance AI servers, automated AI systems, visual AI tooling, c
 
 ### 🚀 future & ongoing projects
 
-#### 🖥️ Custom AI Server & Automated AI Systems
-Engineered dedicated local AI infrastructure and custom model integration servers.
-- **Local AI Server Setup**: Self-hosted LLM/Diffusion pipelines running optimized inference engines.
-- **AI Automation Workflows**: Custom API wrappers, automated pipelines, and autonomous agent orchestration.
-- **Hardware Acceleration**: High-efficiency compute routing using CUDA and model quantification techniques.
+#### 🖥️ High-Performance 70B+ Local AI Server (Qwen 2.5 72B Deployment)
+Building a dedicated, self-hosted local AI infrastructure engineered to run massive 70B+ parameter LLMs like **Qwen 2.5 72B (Abliterated)**.
+- **Elite Coding & Architecture Capabilities**: Optimized specifically for complex C++, Python, engine-level code generation, and low-level system debugging.
+- **Uncensored & Unrestricted Inference**: Deployed with zero-refusal/abliterated models for unrestricted security research, red-teaming, and raw LLM performance.
+- **Hybrid Compute Pipeline**: Utilizing CUDA offloading across 16 GB VRAM and 256 GB System RAM using quantized GGUF execution for maximum throughput.
 
 <br>
 
@@ -55,5 +55,5 @@ Next-generation artificial intelligence platforms integrated with critical infra
 ### 📊 activity
 
 <p align="center">
-  <img src="https://streak-stats-five.vercel.app/?user=mert848&theme=dark&hide_border=true" alt="GitHub Streak" height="150" />
+  <img src="https://github-readme-streak-stats-five.vercel.app/?user=mert848&theme=dark&hide_border=true" alt="GitHub Streak" height="150" />
 </p>
