@@ -3,8 +3,8 @@
 </p>
 
 ### ⚡ about
-Meet **Mert** — a 15-year-old prodigy, AI Infrastructure Engineer, Systems & Network Architect, AI Data Center Engineer, and NPP Cyber Security Researcher. 🚀💻  
-Despite his young age, Mert possesses deep, specialized expertise in designing enterprise-grade bare-metal AI clusters, orchestrating multi-trillion parameter model pipelines, securing nuclear power plant ICS/SCADA critical infrastructure, and architecting high-throughput, fault-tolerant network topologies. He lives at the intersection of raw compute power, system-level software engineering, and high-stakes cybersecurity.
+I'm a 15-year-old AI Infrastructure Engineer, Systems & Network Architect, AI Data Center Engineer, and NPP Cyber Security Researcher. 🚀💻  
+I specialize in building enterprise-grade bare-metal AI clusters, orchestrating multi-trillion parameter model pipelines, securing nuclear power plant ICS/SCADA critical infrastructure, and architecting high-throughput, fault-tolerant network topologies. I live at the intersection of raw compute power, system-level software engineering, and high-stakes cybersecurity.
 
 🌐 [Profile](https://guns.lol/mert848) • ✉️ [Contact](mailto:mert848@proton.me)
 
