@@ -31,7 +31,7 @@ I specialize in building enterprise-grade bare-metal AI clusters, orchestrating 
 #### 🖥️ Multi-Model Enterprise AI Cluster & Local Server Infrastructure (1.17T+ Parameters)
 Architecting a high-density, bare-metal datacenter rack ($15.4K+ infrastructure) engineered to concurrently host and orchestrate **1.17+ Trillion parameters** of local AI models across 3 TB DDR5 ECC Memory and enterprise GPU compute.
 - **Extreme LLM Engine Deployment**: Running **DeepSeek-R1 (671B MoE)** for game-engine/system architecture, **Llama-3.1-405B (Abliterated)** for unrestricted security exploit/reverse engineering, and **Dolphin-2.9.2-Qwen2.5 (72B)** for real-time conversational intelligence.
-- **Uncensored Diffusion Pipelines**: Hosting dedicated **FLUX.1-dev (12B)** nodes (Official & Uncensored fine-tunes) integrated via ComfyUI & custom API wrappers for photorealistic generation.
+- **Unrestricted Visual Diffusion Pipelines**: Hosting dedicated **FLUX.1-dev (12B)** nodes (Official & Uncensored fine-tunes) integrated via ComfyUI & custom API wrappers for high-fidelity, photorealistic image synthesis.
 - **Enterprise Bare-Metal Hardware Stack**: Powered by Dual-Node Dell PowerEdge Enterprise Servers (3 TB DDR5 RAM total), AMD Ryzen 9 9950X GPU Compute Nodes, RTX 4080 Super, 48 TB ZFS Enterprise Storage Shelf, Ubiquiti UDM-SE/10GbE Switches, and Wi-Fi 7 BE98 Pro Router.
 
 <br>
