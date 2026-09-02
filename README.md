@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://github.com/mert848/mert848/blob/main/Kedy.png" alt="mert 15 the coder" width="100%">
 </p>
@@ -29,10 +30,12 @@ I specialize in building enterprise-grade dedicated hardware AI clusters, orches
 ### 🚀 future & ongoing projects
 
 #### 🖥️ Multi-Model Enterprise AI Cluster & Local Server Infrastructure (1.17T+ Parameters)
-Architecting a high-density, physical datacenter rack ($15.4K+ infrastructure) engineered to concurrently host and orchestrate **1.17+ Trillion parameters** of local AI models across 3 TB DDR5 ECC Memory and enterprise GPU compute.
-- **Extreme LLM Engine Deployment**: Running **DeepSeek-R1 (671B MoE)** for game-engine/system architecture, **Llama-3.1-405B Instruct** for advanced security research & reverse engineering, and **Dolphin-2.9.2-Qwen2.5 (72B)** for real-time conversational intelligence.
-- **Advanced Visual Diffusion Pipelines**: Hosting dedicated **FLUX.1-dev (12B)** model nodes integrated via ComfyUI & custom API wrappers for high-fidelity, photorealistic image generation.
-- **Enterprise Hardware Stack**: Powered by Dual-Node Dell PowerEdge Enterprise Servers (3 TB DDR5 RAM total), AMD Ryzen 9 9950X GPU Compute Nodes, RTX 4080 Super, 48 TB ZFS Enterprise Storage Shelf, Ubiquiti UDM-SE/10GbE Switches, and Wi-Fi 7 BE98 Pro Router.
+Architecting a high-density physical datacenter rack ($15.4K+ infrastructure) running an orchestrated multi-model local AI cluster (1.17+ Trillion total parameters) across 3 TB DDR5 ECC RAM and enterprise GPU compute:
+- **Coding & Systems Architecture**: **DeepSeek-R1 (671B MoE)** dedicated to heavy software engineering, game engine architecture, and complex C++/Python development.
+- **Cyber Security & Reverse Engineering**: **Llama-3.1-405B** for red-teaming, vulnerability research, exploit analysis, and low-level code auditing.
+- **Real-Time Conversational AI**: **Dolphin-2.9.2-Qwen2.5 (72B)** for ultra-fast, unrestricted daily interaction, logic execution, and general assistant tasks.
+- **Visual & Image Generation**: **FLUX.1-dev (12B)** nodes integrated via ComfyUI & custom API wrappers for high-fidelity photorealistic visual generation.
+- **Datacenter Hardware Stack**: Powered by Dual-Node Dell PowerEdge Enterprise Servers (3 TB DDR5 RAM total), AMD Ryzen 9 9950X GPU Compute Nodes, RTX 4080 Super, 48 TB ZFS Storage Shelf, Ubiquiti UDM-SE 10GbE networking, and Wi-Fi 7 BE98 Pro Router.
 
 <br>
 
