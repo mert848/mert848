@@ -3,8 +3,8 @@
 </p>
 
 ### ⚡ about
-15-year-old AI engineer, systems builder, NPP cyber security researcher & tech enthusiast. 🚀💻  
-Building high-performance AI servers, automated AI systems, visual AI tooling, custom Discord bots, and secure developer infrastructure and more.
+15-year-old AI Infrastructure Engineer, Systems & Network Architect, AI Data Center Engineer & NPP Cyber Security Researcher. 🚀💻  
+Deeply specialized in enterprise-grade bare-metal AI clusters, multi-trillion parameter model orchestration, nuclear power plant ICS/SCADA security monitoring, high-throughput network topologies, and fault-tolerant system architectures.
 
 🌐 [Profile](https://guns.lol/mert848) • ✉️ [Contact](mailto:mert848@proton.me)
 
